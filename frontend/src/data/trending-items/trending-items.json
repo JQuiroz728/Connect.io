@@ -1,0 +1,42 @@
+[
+    {
+      "image_src": "../../../assets/images/bezos.jpeg",
+      "title": "Amazon",
+      "description": "Jeff Bezos steps down as Amazon CEO",
+      "subreddit": {
+        "image_src": "../../../assets/images/bezos.jpeg",
+        "name": "News in Tech"
+      }
+    },
+  
+    {
+      "image_src": "../../../assets/images/doge.jpg",
+      "title": "Dogecoin",
+      "description": "Elon Musk’s dogecoin tweets are worrying and people will lose money, bitcoin bulls say",
+      "subreddit": {
+        "image_src": "../../../assets/images/doge.jpg",
+        "name": "Crypto"
+      }
+    },
+  
+    {
+      "image_src": "../../../assets/images/programming.jpg",
+      "title": "Web Development",
+      "description": "Top 5 tricks to speed up your web development process and get better results",
+      "subreddit": {
+        "image_src": "../../../assets/images/programming.jpg",
+        "name": "Programming"
+      }
+    },
+  
+    {
+      "image_src": "../../../assets/images/techinterview.jpg",
+      "title": "Technical Interviewing 101",
+      "description": "Ultimate Guide to Acing Your Tech Interview in 2021",
+      "subreddit": {
+        "image_src": "../../../assets/images/techinterview.jpg",
+        "name": "Interview Prep"
+      }
+    }
+]
+  

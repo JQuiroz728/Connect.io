@@ -1,0 +1,55 @@
+[
+    {
+      "title": "Google Final Round Interview Tips?",
+      "upvotes": 39,
+      "comments": 3,
+      "subreddit": {
+        "image_src": "assets/images/subreddit.jpg",
+        "name": "Interview Prep"
+      },
+      "username": "Jorge Quiroz"
+    },
+    {
+      "title": "Functional Programming > Anything else",
+      "upvotes": 100,
+      "comments": 12,
+      "subreddit": {
+        "name": "Memes"
+      },
+      "username": "Douglas Troeger"
+    },
+    {
+      "title": "Need Advice ASAP!",
+      "description": "Should I switch from CS to Art?",
+      "upvotes": 3,
+      "comments": 1,
+      "subreddit": {
+        "name": "Career Advice"
+      },
+      "username": "Jane Smith"
+    },
+    {
+      "title": "What is value stored at offset minus 8 from base pointer?????",
+      "image_src": "assets/images/post-2.jpg",
+      "upvotes": 240,
+      "comments": 52,
+      "subreddit": {
+        "image_src": "assets/images/subreddit.jpg",
+        "name": "Computer Organization"
+      },
+      "username": "Izidor Gertner"
+    },
+    {
+      "title": "CCNY Virtual Career Fair this Thursday!",
+      "image_src": "assets/images/post-2.jpg",
+      "upvotes": 29,
+      "comments": 8,
+      "subreddit": {
+        "image_src": "assets/images/subreddit.jpg",
+        "name": "CCNY"
+      },
+      "username": "CCNY Career Services"
+    }
+
+]
+  
