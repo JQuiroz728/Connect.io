@@ -1,7 +1,5 @@
 // Helper Functions
 
-const { user } = require("firebase-functions/lib/providers/auth");
-
 // Validating empty strings
 const isEmpty = (string) => {
     if (string.trim() === '') return true;
